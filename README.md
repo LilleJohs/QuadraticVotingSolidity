@@ -1,1 +1,3 @@
 # QuadraticVotingSolidity
+
+Not finished
